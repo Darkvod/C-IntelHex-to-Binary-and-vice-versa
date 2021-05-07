@@ -1,1 +1,1 @@
-# C-IntelHex-to-Binary-and-vice-versa
+# C++-IntelHex-to-Binary-and-vice-versa
